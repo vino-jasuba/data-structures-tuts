@@ -7,4 +7,3 @@ app:node.o list.o $(INCLUDES)
 
 clean:
 	rm -f *.o
-	rm app
